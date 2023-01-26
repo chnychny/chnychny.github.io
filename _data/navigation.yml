@@ -1,0 +1,10 @@
+# main links
+main:
+  # - title: "HOME"
+  #   url: /
+  - title: "About"
+    url: /about/
+  - title: "Category"
+    url: "/categories/"
+  - title: "Tags"
+    url: /tags/
