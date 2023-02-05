@@ -8,7 +8,7 @@ tags: [Blog, jekyll, Github, Git]
 
 # TIL about Git Markdown_notion and ruby
 
-- vscode와 github연동에 도움될 사이트 [here] (https://dev-youngjun.tistory.com/7)
+- vscode와 github연동에 도움될 사이트 [here](https://dev-youngjun.tistory.com/7)
 ## 노션 마크다운 export
 - 노션으로 글쓰고 markdown export하면 어떻게 추출이 될지 확인하기 위해 쓰는 글
 - 노션에 마크다운 문법이 되어있다. #로 헤딩이 됨
