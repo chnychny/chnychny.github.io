@@ -1,7 +1,7 @@
 ---
 title: "[Paper] Transformers in Time Series: A survey"
-date: 2023-02-05
 excerpt: "2022 Machine learning"
+date: 2023-02-05
 categories: Interested, Topics4Study
 tags: [PaperReview]
 ---
