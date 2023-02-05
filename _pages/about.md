@@ -1,8 +1,10 @@
 ---
-title: "self introduction"
+title: "Curriculum Vitae"
 permalink: /about/
-layout: single
+layout: category
+author_profile: true
+taxonomy: about
 ---
 
-## chnychny.github.io tech blog
-## let me introduce my self,,later ^^
+## Chan Hee Park
+

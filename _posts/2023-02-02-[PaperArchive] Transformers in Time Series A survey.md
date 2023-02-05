@@ -3,7 +3,7 @@ title: "[Paper] Transformers in Time Series: A survey"
 date: 2023-02-05
 excerpt: "2022 Machine learning"
 categories: Interested, Topics4Study
-tags: [paperreview]
+tags: [PaperReview]
 ---
 
 # Transformers in Time Series: A survey
@@ -11,7 +11,7 @@ tags: [paperreview]
 - survey논문들 정리해 놓은 github 페이지 [Link](https://github.com/qingsongedu/time-series-transformers-review): 
     - language, video, medical image등 다른 discipline 서베이 논문들 정리되어있음
     - spatiotemporal data 적용 연구도 있음(예. 지도)  
-      
+
 
 - time series data의 challenge:
     - capture seasonality, periodicity
