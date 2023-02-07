@@ -2,6 +2,7 @@
 title: "This week I Learned"
 layout: archive
 permalink: /TIL/
+author_profile: true
 ---
 
 {% assign posts = site.categories.TIL %}
