@@ -5,5 +5,5 @@ permalink: /categories/TIL/
 author_profile: true
 taxonomy: TIL
 sidebar:
-  nav: "categories"
+nav: "categories"
 ---
