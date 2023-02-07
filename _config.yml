@@ -274,15 +274,15 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
+  values:
       layout: single
       author_profile: true
-      read_time: true
       comments: # true
       share: true
+      search: true
       related: true
       sidebar: # 사이드바 만들기
-        nav: "sidebar-category"
+        nav: "sidebar"
 #   - scope:
 #       path: "_pages"
 #       type: pages
