@@ -282,7 +282,7 @@ defaults:
       search: true
       related: true
       sidebar: # 사이드바 만들기
-        nav: "sidebar"
+        nav: "categories"
 #   - scope:
 #       path: "_pages"
 #       type: pages
