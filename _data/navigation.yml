@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "TIL"
     url: /TIL/
+  - title: "PaperReview"
+    url: /PaperReview/
   - title: "Category"
     url: "/categories/"
   - title: "Tags"
