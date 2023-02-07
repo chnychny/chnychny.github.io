@@ -4,11 +4,13 @@ main:
   #   url: /
   - title: "About"
     url: /about/
-  - title: "TIL"
-    url: /TIL/
-  - title: "PaperReview"
-    url: /PaperReview/
   - title: "Category"
-    url: "/categories/"
+    url: /categories/
   - title: "Tags"
     url: /tags/
+# sidebar navigation
+categories:
+  - title: "TIL"
+    url: /categories/TIL/
+  - title: "Paper Archive"
+    url: /categories/PaperArchive/
