@@ -281,11 +281,14 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+      sidebar: # 사이드바 만들기
+        nav: "sidebar-category"
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
+      
+    
       
