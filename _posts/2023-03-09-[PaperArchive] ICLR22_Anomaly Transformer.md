@@ -1,13 +1,17 @@
-# [Paper] ICLR22_Anomaly Transformer
+---
+title: "[Paper] ICLR22_Anomaly Transformer"
+excerpt: "ICLR 2022 spotlight paper"
+date: 2023-03-09
+categories: PaperArchive
+permalink: /categories/PaperArchive/
+tags: [PaperReview]
+---
 
-Category: Topics4Study
-Memo: ICLR 2022 spotlight paper
+- Time series anomaly detection with association discrepency
+- torch>1.4 
+- github 공유됨 [github.com/thuml/Anomaly-Transformer](github.com/thuml/Anomaly-Transformer)
 
-Time series anomaly detection with association discrepency
-
-torch>1.4 github 공유됨 (github.com/thuml/Anomaly-Transformer)
-
-고려대학교 산업경영공학부 DSBA연구실 유튜브 강의를 많이 참조함()
+고려대학교 산업경영공학부 DSBA연구실 유튜브 강의를 많이 참조함 [LINK](https://www.youtube.com/watch?v=C3dphckvyn0&ab_channel=%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90%EC%82%B0%EC%97%85%EA%B2%BD%EC%98%81%EA%B3%B5%ED%95%99%EB%B6%80DSBA%EC%97%B0%EA%B5%AC%EC%8B%A4)
 
 ### 비지도 시계열 이상치 탐지의 목적
 
