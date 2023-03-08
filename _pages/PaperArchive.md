@@ -1,5 +1,5 @@
 ---
-title: "Paper Archive"
+title: "PaperArchive"
 layout: archive
 permalink: /PaperArchive/
 ---
