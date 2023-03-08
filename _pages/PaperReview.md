@@ -1,7 +1,7 @@
 ---
 title: "Paper Archive"
 layout: archive
-permalink: /PaperReview/
+permalink: /PaperArchive/
 ---
 
 {% assign posts = site.categories.PaperReview %}
