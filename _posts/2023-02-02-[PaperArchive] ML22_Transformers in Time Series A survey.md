@@ -1,8 +1,9 @@
 ---
-title: "[Paper] Transformers in Time Series: A survey"
+title: "[Paper] ML22_Transformers in Time Series: A survey"
 excerpt: "2022 Machine learning"
 date: 2023-02-05
-categories: PaperReview
+categories: PaperArchive
+permalink: /categories/PaperArchive/
 tags: [PaperReview]
 ---
 
